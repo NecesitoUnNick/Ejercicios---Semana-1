@@ -7,4 +7,4 @@
 * Angela Fernanda Romero Fonseca - 201819276
 * Carlos Francisco Silva Ortiz - 201920463
 * Daniela Carolina Sanabria Guerrero -201116798
-* Juan Camilo Florez - 201620135
+* Juan Camilo Florez Caro - 201620135
